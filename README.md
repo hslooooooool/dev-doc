@@ -11,13 +11,13 @@
 
 ## 安卓
 
-- 采用JAVA开发则遵循 [阿里JAVA开发手册](https://yq.aliyun.com/download/2719?spm=a2c4e.11153940.blogcont599824.11.3c4841c4BK8Gto) 规范
+- 采用JAVA开发则遵循 [阿里Android开发手册](https://yq.aliyun.com/articles/499254?spm=a2c4e.11163080.searchblog.26.2cd52ec1rzlbiH)
 
 ### AS 规范
 
-- 使用最新的稳定版的 IDE 进行开发；
+- 使用最新的稳定版的 Android Studio 进行开发；
 - 编码格式统一为 UTF-8；
-- 编辑完 .java、.xml 等文件后一定要 格式化，格式化，格式化（如果团队有公共的样式包，那就遵循它，否则统一使用 AS 默认模板即可）；
+- 编辑完 .java、.xml 等文件后一定要 格式化-自动排版，（如果团队有公共的样式包，那就遵循它，否则统一使用 AS 默认模板即可）；
 - 删除多余的 import，减少警告出现，可利用 AS 的 Optimize Imports（Settings -> Keymap -> Optimize Imports）快捷键；
 
 ### 命名规范
